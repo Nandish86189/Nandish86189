@@ -1,4 +1,5 @@
 # Hi👋 there I'm Nandish gowda M P
+#                A passionate developer from india 
 🌱 I'm currently learning python and java script<br>👨‍💻 I'm currently working tailwind CSS<br>💬 Ask me about programming HTML, CSS, Tailwind CSS, SQL<br>💻 I regularly practice coding Website, App, Software<br>📩 Reach me out at nandishgowda86189@gmail.com 
 
 
